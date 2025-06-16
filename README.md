@@ -17,7 +17,5 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SumitSahu83162)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitsahu93023@gmail.com)
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsahu2505&show_icons=true&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sumitsahu2505.sumitsahu2505)
 

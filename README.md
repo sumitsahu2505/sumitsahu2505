@@ -5,9 +5,11 @@
 💻 I have experience in:  
 - 🐍 Python  
 - 🌐 HTML, CSS, JavaScript  
-- ⚙️ C Programming  
+- ⚙️ C, C++ Programming
+- 🔷 OOP in C++ 
+- 🧠 Data Structures using C ⚙️ and Python 🐍
 
-🚀 I'm currently exploring Full Stack Web Development.  
+🚀 I'm currently exploring Data Structures using c and python 🐍, Object Oriented Programming using C++.  
 📈 Improving every day and contributing to open source when I can.  
 🌱 Always excited to learn and share.
 
